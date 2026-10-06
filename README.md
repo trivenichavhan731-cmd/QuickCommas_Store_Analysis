@@ -7,9 +7,11 @@ Hackathon project analysing 10 Noida dark stores (18 May – 28 Jun 2026).
 
 | Member | Lane | Slack |
 |---|---|---|
-| Triveni Chavhan | Lane 1: Store Performance | n/a |
-| Rohit | Lane 2: Product & Cost Analysis | [Slack](https://7damwfaprilbatch.slack.com/archives/C0C4UF2TMQE/p1791263130121459) |
-| Monika | Lane 3: Opreational Analysis| [Slack](https://7damwfaprilbatch.slack.com/archives/C0C4UF2TMQE/p1791263132835189) |
+| Triveni Chavhan | Lane 1: Store Performance |
+| Rohit | Lane 2: Product & Cost Analysis | 
+ https://github.com/thiro2003|
+| Monika | Lane 3: Opreational Analysis| 
+(https://github.com/mengawademonika-hash)|
 
 ## Lane 1: Store Performance
 
