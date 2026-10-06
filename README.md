@@ -5,13 +5,13 @@ Hackathon project analysing 10 Noida dark stores (18 May – 28 Jun 2026).
 
 ## Team
 
-| Member | Lane | Slack |
+| Member | Lane 
 |---|---|---|
 | Triveni Chavhan | Lane 1: Store Performance |
 | Rohit | Lane 2: Product & Cost Analysis | 
- https://github.com/thiro2003|
+ 
 | Monika | Lane 3: Opreational Analysis| 
-(https://github.com/mengawademonika-hash)|
+
 
 ## Lane 1: Store Performance
 
